@@ -1,0 +1,23 @@
+.top{
+    width: 700px;
+    height: 150px;
+}
+.right{
+    width: 490px;
+
+    display: inline-block;
+    margin-bottom: auto;
+    float:left;
+    padding-top: 20px;
+
+}
+.left{
+    float:left;
+   display: inline-block;
+
+}
+body{
+    width: 700px;
+    border: 1px solid black;
+
+}
